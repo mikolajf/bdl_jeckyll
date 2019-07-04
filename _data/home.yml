@@ -1,7 +1,7 @@
 intro:
   lead-in: "Welcome To My Personal Webpage"
   heading: Between.Data.Lines
-  btn: Tell Me More
+  btn: Explore
 
 ### commented out
 
@@ -29,16 +29,16 @@ team:
       It is created by quantitative analyst for those who share the same passion, occupy similar positions, 
       pursue interesting opportunities in financial and data-driven world.
   members:
-    - name: Kay Garland
-      role: Lead Designer
-      img: img/evening-55067.jpg
+    - name: Mikołaj Fido
+      role: Quantitative Analyst
+      img: img/profile_square_small.jpg
       social-buttons:
-        - icon: fa fa-twitter
-          url: "#" 
-        - icon: fa fa-facebook
-          url: "#"
-        - icon: fa fa-linkedin
-          url: "#"
+          - icon: fa fa-github
+            url: 'https://github.com/mikolajf' 
+          - icon: fa fa-linkedin
+            url: 'https://www.linkedin.com/in/mikolaj-fido/'
+          - icon: fa fa-envelope
+            url: 'mailto:mikolaj.fido@gmail.com'
         
     # - name: Larry Parker
     #   role: Lead Marketer
@@ -71,29 +71,63 @@ portfolio:
   subheading: Lorem ipsum dolor sit amet consectetur.
 
 about:
-  heading: About
+  heading: Storyline
   subheading: Lorem ipsum dolor sit amet consectetur.
   timeline:
-    - image: img/about/1.jpg
-      date: 2009-2011
-      title: Our Humble Beginnings
-      text: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!
-    - image: img/about/2.jpg
-      date: March 2011
-      title: An Agency is Born
-      text: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!
-    - image: img/about/3.jpg
-      date: December 2012
-      title: Transition to Full Service
-      text: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!
-    - image: img/about/4.jpg
-      date: July 2014
-      title: Phase Two Expansion
-      text: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!
+    - image: img/about/cqf.jpg
+      date: 2018 - 2019
+      title: Certificate in Quantitative Finance (with Distinction)
+      text: |
+       <h5 class="subheading">CQF Institute</h5>
+                  <ul class="text-muted">
+                    <li> Highly comprehensive course on practical quantitative methods for financial markets </li>
+                    <li> Final project: Machine learning algorithms for stock market predictions  </li>
+                  </ul>
+    - image: img/about/cs.jpg
+      date: 2017 - 
+      title: Credit Suisse
+      text: |
+       <h5 class="subheading">Model Validation Specialist</h5>
+                  <ul class="text-muted" style="text-align: left;">
+                    <li> Validated risk models, primarily PD Rating Models and LGD (AIRB) and stress testing models (CCAR) </li>
+                    <li> Assessed the adequacy of risk capital and estimated losses for regulatory or business requirements  </li>
+                    <li> Innovated and implemented new methodology for backtesting EAD/LGD models  </li>
+                    <li> Built, tested, and maintained the credit risk validation R package  </li>
+                    <li> Managed the migration from Word to LaTeX validation templates. Automated creation of LaTeX markup for Excel tables.  </li>
+                  </ul>
+    - image: img/about/tilburg.jpg
+      date: 2016 - 2017
+      title: MSc Econometrics and Mathematical Economicse
+      text: |
+       <h5 class="subheading">Tilburg University</h5>
+                  <ul class="text-muted">
+                    <li> Modelling techniques in economics, econometrics, statistics, panel data and time series analysis </li> 
+                    <li> Thesis: Working part-time and full-time and body weight in old age: effects and mechanisms  </li>
+                  </ul>
+    - image: img/about/link4.jpg
+      date: 2015 - 2016
+      title: LINK4 Insurance Company
+      text: |
+       <h5 class="subheading">Insurance Pricing Specialist</h5>
+                  <ul class="text-muted" style="text-align: left;">
+                    <li> Conduct statistical research on market price positioning and competitiveness analysis </li>
+                    <li> Managed and oversaw renewals portfolio analysis and strategies </li>
+                    <li> Assisted in database development and maintenance for third-party liability insurance pricing </li>
+                    <li> Supported pricing and modelling activities in fleets insurance </li>
+                  </ul>
+    - image: img/about/uw.jpg
+      date: 2013 - 2016
+      title: Double Degree Program in Economics and Mathematics
+      text: |
+       <h5 class="subheading">University of Warsaw</h5>
+                  <ul class="text-muted">
+                    <li> Supervised by Faculty of Mathematics, Informatics, and Mechanics; and Faculty of Economic Sciences </li>
+                    <li> Thesis: Asymmetric information in Polish comprehensive motor insurance market  </li>
+                  </ul>
 
-  end1: Be Part
-  end2: Of Our
-  end3: Story!
+  end1: ""
+  end2: ""
+  end3: ""
 
 clients:
   - img: img/logos/envato.jpg
