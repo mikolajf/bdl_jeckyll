@@ -3,6 +3,25 @@ intro:
   heading: Between.Data.Lines
   btn: Tell Me More
 
+### commented out
+
+# services:
+#   heading: Between.Data.Lines
+#   subheading: |
+#     It aims to combine best-in-class data science portfolio, personal website and engaging blog. 
+#     It is created by quantitative analyst for those who share the same passion, occupy similar positions, 
+#     pursue interesting opportunities in financial and data-driven world.
+#   service:
+#     - icon: fa fa-shopping-cart
+#       heading: E-Commerce
+#       text: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit.
+#     - icon: fa fa-laptop
+#       heading: Responsive Design
+#       text: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit.
+#     - icon: fa fa-lock
+#       heading: Web Security
+#       text: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit.
+
 team:
   heading: Between.Data.Lines
   subheading: |
@@ -12,7 +31,7 @@ team:
   members:
     - name: Kay Garland
       role: Lead Designer
-      img: img/team/1.jpg
+      img: img/evening-55067.jpg
       social-buttons:
         - icon: fa fa-twitter
           url: "#" 
@@ -45,22 +64,7 @@ team:
 
   text: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde.
 
-# services:
-#   heading: Between.Data.Lines
-#   subheading: |
-#     It aims to combine best-in-class data science portfolio, personal website and engaging blog. 
-#     It is created by quantitative analyst for those who share the same passion, occupy similar positions, 
-#     pursue interesting opportunities in financial and data-driven world.
-#   service:
-#     - icon: fa fa-shopping-cart
-#       heading: E-Commerce
-#       text: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit.
-#     - icon: fa fa-laptop
-#       heading: Responsive Design
-#       text: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit.
-#     - icon: fa fa-lock
-#       heading: Web Security
-#       text: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit.
+
 
 portfolio:
   heading: Portfolio

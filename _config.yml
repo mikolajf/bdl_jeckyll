@@ -6,10 +6,11 @@ author: 'mikolaj.fido@gmail.com'
 # url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # assets_path: 'assets/'
 
-collections:
-  projects:
+sass: # Enables the conversion of css/agency.min.scss to  css/agency.min.css
+  style: compressed # Minify css/agency.min.css
+
+collections: # Enables additional data structures 
+  projects: # Enables _projects
 
 # Build settings
-remote_theme: SotiriosVrachas/jekyll-theme-startbootstrap-agency@0.2.4
-plugins:
-  - jekyll-remote-theme
+theme: jekyll-theme-startbootstrap-agency
