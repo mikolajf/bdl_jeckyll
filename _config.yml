@@ -13,4 +13,6 @@ collections: # Enables additional data structures
   projects: # Enables _projects
 
 # Build settings
-theme: jekyll-theme-startbootstrap-agency
+remote_theme: SotiriosVrachas/jekyll-theme-startbootstrap-agency@0.2.4
+plugins:
+  - jekyll-remote-theme
