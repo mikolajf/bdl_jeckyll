@@ -51,7 +51,14 @@ layout: default
             <p class="large text-muted">A placeholder for description. {{ member.text }}</p>
           </div>
           <div class="col-sm-4 mx-auto text-center">
-            <p class="large text-muted">A placeholder for CV. {{ member.cv }}</p>
+            <a href="{{ assets_path }}{{ member.cv }}" title="">
+              <div class="thumbnail">
+                <img class="img-thumbnail" src="{{ assets_path }}{{ member.cv_mini }}" alt="">
+                <!-- <div class="carousel-caption">
+                  <h1>CV</h1>
+                </div> -->
+              </div>
+            </a>
           </div>
           {%- endfor -%}
         {% assign ws = '' %}
@@ -61,11 +68,6 @@ layout: default
             <p class="large text-muted">{{ site.data.home.team.text }}</p>
           </div>
         </div>
-<!--         <div class="row">
-            <object data="{{ site.baseurl }}/assets/pdfs/Mikolaj_Fido_CV_20190710.pdf" type="application/pdf">
-                <embed src="{{ site.baseurl }}/assets/pdfs/Mikolaj_Fido_CV_20190710.pdf" type="application/pdf" />
-            </object>
-        </div> -->
       </div>
 
     </section>

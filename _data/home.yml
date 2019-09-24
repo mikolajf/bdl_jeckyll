@@ -40,7 +40,8 @@ team:
           - icon: fa fa-envelope
             url: 'mailto:mikolaj.fido@gmail.com'
       text: blablabla
-      cv: blabla 
+      cv_mini: img/cv_mini.png
+      cv: pdfs/Mikolaj_Fido_CV_20190710.pdf
 
     # - name: Larry Parker
     #   role: Lead Marketer
