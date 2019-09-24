@@ -47,6 +47,12 @@ layout: default
               </ul>
             </div>
           </div>
+          <div class="col-sm-4 mx-auto text-center">
+            <p class="large text-muted">A placeholder for description. {{ member.text }}</p>
+          </div>
+          <div class="col-sm-4 mx-auto text-center">
+            <p class="large text-muted">A placeholder for CV. {{ member.cv }}</p>
+          </div>
           {%- endfor -%}
         {% assign ws = '' %}
         </div>
@@ -61,7 +67,7 @@ layout: default
             </object>
         </div> -->
       </div>
-      
+
     </section>
 
     <!-- Portfolio Grid -->

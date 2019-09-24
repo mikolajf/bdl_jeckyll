@@ -8,8 +8,8 @@ intro:
 # services:
 #   heading: Between.Data.Lines
 #   subheading: |
-#     It aims to combine best-in-class data science portfolio, personal website and engaging blog. 
-#     It is created by quantitative analyst for those who share the same passion, occupy similar positions, 
+#     It aims to combine best-in-class data science portfolio, personal website and engaging blog.
+#     It is created by quantitative analyst for those who share the same passion, occupy similar positions,
 #     pursue interesting opportunities in financial and data-driven world.
 #   service:
 #     - icon: fa fa-shopping-cart
@@ -25,8 +25,8 @@ intro:
 team:
   heading: Between.Data.Lines
   subheading: |
-      It aims to combine best-in-class data science portfolio, personal website and engaging blog. 
-      It is created by quantitative analyst for those who share the same passion, occupy similar positions, 
+      It aims to combine best-in-class data science portfolio, personal website and engaging blog.
+      It is created by quantitative analyst for those who share the same passion, occupy similar positions,
       pursue interesting opportunities in financial and data-driven world.
   members:
     - name: Mikołaj Fido
@@ -34,12 +34,14 @@ team:
       img: img/profile_square_small.jpg
       social-buttons:
           - icon: fa fa-github
-            url: 'https://github.com/mikolajf' 
+            url: 'https://github.com/mikolajf'
           - icon: fa fa-linkedin
             url: 'https://www.linkedin.com/in/mikolaj-fido/'
           - icon: fa fa-envelope
             url: 'mailto:mikolaj.fido@gmail.com'
-        
+      text: blablabla
+      cv: blabla 
+
     # - name: Larry Parker
     #   role: Lead Marketer
     #   img: img/team/2.jpg
@@ -68,7 +70,7 @@ team:
 
 portfolio:
   heading: Portfolio
-  subheading: Portfolio under construction. 
+  subheading: Portfolio under construction.
 
 about:
   heading: Storyline
@@ -84,7 +86,7 @@ about:
                     <li> Final project: Machine learning algorithms for stock market predictions  </li>
                   </ul>
     - image: img/about/cs.jpg
-      date: 2017 - 
+      date: 2017 -
       title: Credit Suisse
       text: |
        <h5 class="subheading">Model Validation Specialist</h5>
@@ -101,7 +103,7 @@ about:
       text: |
        <h5 class="subheading">Tilburg University</h5>
                   <ul class="text-muted">
-                    <li> Modelling techniques in economics, econometrics, statistics, panel data and time series analysis </li> 
+                    <li> Modelling techniques in economics, econometrics, statistics, panel data and time series analysis </li>
                     <li> Thesis: Working part-time and full-time and body weight in old age: effects and mechanisms  </li>
                   </ul>
     - image: img/about/link4.jpg
@@ -136,7 +138,7 @@ clients:
     url: "#"
   - img: img/logos/themeforest.jpg
     url: "#"
-  - img: img/logos/creative-market.jpg   
+  - img: img/logos/creative-market.jpg
     url: "#"
 
 contact:
