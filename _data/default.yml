@@ -7,8 +7,8 @@ nav:
     url: '#about'
   # - title: Services
   #   url: '#services'
-  # - title: Portfolio
-  # url: '#portfolio'
+  - title: Portfolio
+    url: '#portfolio'
   - title: Storyline
     url: '#storyline'
   # - title: Contact
@@ -18,7 +18,7 @@ copyright: Copyright &copy; Between.data.lines 2019
 
 social-buttons:
   - icon: fa fa-github
-    url: 'https://github.com/mikolajf' 
+    url: 'https://github.com/mikolajf'
   - icon: fa fa-linkedin
     url: 'https://www.linkedin.com/in/mikolaj-fido/'
   - icon: fa fa-envelope
