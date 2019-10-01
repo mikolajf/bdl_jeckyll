@@ -1,6 +1,6 @@
 intro:
-  lead-in: "Welcome To My Personal Webpage"
-  heading: Between.Data.Lines
+  lead-in: "Hi, I'm Mikołaj"
+  heading: "Welcome to my webpage"
   btn: Explore
 
 ### commented out
@@ -81,7 +81,7 @@ portfolio:
 
 about:
   heading: Storyline
-  subheading: How did it start? What have I studied? Where have I worked? 
+  subheading: How did it start? What have I studied? Where have I worked?
   timeline:
     - image: img/about/fitch.jpg
       date: 2019 -
