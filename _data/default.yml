@@ -25,10 +25,10 @@ social-buttons:
     url: 'mailto:mikolaj.fido@gmail.com'
 
 quicklinks:
-  - title: Privacy Policy
-    url: '#'
-  - title: Terms of Use
-    url: '#'
+  # - title: Privacy Policy
+  #   url: '#'
+  # - title: Terms of Use
+  #   url: '#'
 
 modal:
   date-string: 'Date: '
