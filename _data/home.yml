@@ -81,13 +81,13 @@ portfolio:
 
 about:
   heading: Storyline
-  subheading: Lorem ipsum dolor sit amet consectetur.
+  subheading: Where have I worked? What have I studied?
   timeline:
-    - image: img/about/cqf.jpg
+    - image: img/about/fitch.jpg
       date: 2019 -
       title: Fitch Ratings
       text: |
-       <h5 class="subheading">Model Developer</h5>
+       <h5 class="subheading">Senior Quantitative Analyst<br/>Model Developer</h5>
                   <ul class="text-muted" style="text-align: left;">
                     <li> Development, maintenance and enhancement of the Corporate and Sovereign Rating models </li>
                     <li> Broad exposure to Fitch’s Corp and Sov rating process, conducting research</li>
