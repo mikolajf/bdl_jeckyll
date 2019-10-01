@@ -81,7 +81,7 @@ portfolio:
 
 about:
   heading: Storyline
-  subheading: Where have I worked? What have I studied?
+  subheading: How did it start? What have I studied? Where have I worked? 
   timeline:
     - image: img/about/fitch.jpg
       date: 2019 -
