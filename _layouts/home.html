@@ -22,7 +22,12 @@ layout: default
       <div class="container">
         <div class="row">
           <div class="col-lg-12 text-center">
-            <object type="image/svg+xml" class="w-75 mb-2 mx-auto" data="{{ assets_path }}img/logo/logo_inline_dark.svg">
+            <!-- inline on wide screens -->
+            <object type="image/svg+xml" class="d-none d-md-block w-75 mb-2 mx-auto" data="{{ assets_path }}img/logo/logo_inline_dark.svg">
+              <h2 class="section-heading text-uppercase">{{ site.data.home.team.heading }}</h2>
+            </object>
+            <!-- two-line on smaller screens -->
+            <object type="image/svg+xml" class="d-md-none w-75 mb-2 mx-auto" data="{{ assets_path }}img/logo/logo_dark.svg">
               <h2 class="section-heading text-uppercase">{{ site.data.home.team.heading }}</h2>
             </object>
             <h3 class="section-subheading text-muted">{{ site.data.home.team.subheading }}</h3>
