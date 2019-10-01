@@ -1,6 +1,6 @@
 intro:
-  lead-in: "Welcome To My Personal Webpage"
-  heading: Between.Data.Lines
+  lead-in: "Hi, I'm Mikołaj"
+  heading: "Welcome to my webpage"
   btn: Explore
 
 ### commented out
@@ -8,8 +8,8 @@ intro:
 # services:
 #   heading: Between.Data.Lines
 #   subheading: |
-#     It aims to combine best-in-class data science portfolio, personal website and engaging blog. 
-#     It is created by quantitative analyst for those who share the same passion, occupy similar positions, 
+#     It aims to combine best-in-class data science portfolio, personal website and engaging blog.
+#     It is created by quantitative analyst for those who share the same passion, occupy similar positions,
 #     pursue interesting opportunities in financial and data-driven world.
 #   service:
 #     - icon: fa fa-shopping-cart
@@ -25,8 +25,8 @@ intro:
 team:
   heading: Between.Data.Lines
   subheading: |
-      It aims to combine best-in-class data science portfolio, personal website and engaging blog. 
-      It is created by quantitative analyst for those who share the same passion, occupy similar positions, 
+      It aims to combine best-in-class data science portfolio, personal website and engaging blog.
+      It is created by quantitative analyst for those who share the same passion, occupy similar positions,
       pursue interesting opportunities in financial and data-driven world.
   members:
     - name: Mikołaj Fido
@@ -34,12 +34,21 @@ team:
       img: img/profile_square_small.jpg
       social-buttons:
           - icon: fa fa-github
-            url: 'https://github.com/mikolajf' 
+            url: 'https://github.com/mikolajf'
           - icon: fa fa-linkedin
             url: 'https://www.linkedin.com/in/mikolaj-fido/'
           - icon: fa fa-envelope
             url: 'mailto:mikolaj.fido@gmail.com'
-        
+      text: |
+        Senior Quantitative Analyst with industry experience as Model Developer and Validator.
+        Ceritfied in Quantitative Finance (CQF with Distinction), MSc in Econometrics and
+        Mathematical Economics graduate. Strong mathematical background.
+        Affinity with quant finance, statistical modelling, data analysis,
+        complex problem solving. Personal interest in programming, automation,
+        numerical methods. Passionate about travelling, mountaineering, sports.
+      cv_mini: img/cv_mini.png
+      cv: pdfs/Mikolaj_Fido_CV_20190710.pdf
+
     # - name: Larry Parker
     #   role: Lead Marketer
     #   img: img/team/2.jpg
@@ -68,12 +77,22 @@ team:
 
 portfolio:
   heading: Portfolio
-  subheading: Portfolio under construction. 
+  subheading: Portfolio under construction.
 
 about:
   heading: Storyline
-  subheading: Lorem ipsum dolor sit amet consectetur.
+  subheading: How did it start? What have I studied? Where have I worked?
   timeline:
+    - image: img/about/fitch.jpg
+      date: 2019 -
+      title: Fitch Ratings
+      text: |
+       <h5 class="subheading">Senior Quantitative Analyst<br/>Model Developer</h5>
+                  <ul class="text-muted" style="text-align: left;">
+                    <li> Development, maintenance and enhancement of the Corporate and Sovereign Rating models </li>
+                    <li> Broad exposure to Fitch’s Corp and Sov rating process, conducting research</li>
+                    <li> High quality testing on the team’s modelling projects </li>
+                  </ul>
     - image: img/about/cqf.jpg
       date: 2018 - 2019
       title: Certificate in Quantitative Finance (with Distinction)
@@ -84,7 +103,7 @@ about:
                     <li> Final project: Machine learning algorithms for stock market predictions  </li>
                   </ul>
     - image: img/about/cs.jpg
-      date: 2017 - 
+      date: 2017 - 2019
       title: Credit Suisse
       text: |
        <h5 class="subheading">Model Validation Specialist</h5>
@@ -101,7 +120,7 @@ about:
       text: |
        <h5 class="subheading">Tilburg University</h5>
                   <ul class="text-muted">
-                    <li> Modelling techniques in economics, econometrics, statistics, panel data and time series analysis </li> 
+                    <li> Modelling techniques in economics, econometrics, statistics, panel data and time series analysis </li>
                     <li> Thesis: Working part-time and full-time and body weight in old age: effects and mechanisms  </li>
                   </ul>
     - image: img/about/link4.jpg
@@ -136,7 +155,7 @@ clients:
     url: "#"
   - img: img/logos/themeforest.jpg
     url: "#"
-  - img: img/logos/creative-market.jpg   
+  - img: img/logos/creative-market.jpg
     url: "#"
 
 contact:
